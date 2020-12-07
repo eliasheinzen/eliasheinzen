@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Linkedin)](https://www.linkedin.com/in/eliasheinzen/)
+[![](https://img.shields.io/badge/Linkedin-in-blue)](https://www.linkedin.com/in/eliasheinzen/)
 
 ### Hi there 👋
 
