@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some personal projects.
 - 🌱 I’m currently learning Linux, Neovim, Lua and Rust.
-<!-- - 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me anything, if you are willing to talk openly about it.
-<!-- - 📫 How to reach me: ... -->
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I have only one kidney.
